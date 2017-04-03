@@ -1,0 +1,70 @@
+"a" = (/turf/St_Muh_13/floor/digable/grass,/area/St_Muh_13)
+"b" = (/turf/simulated/wall,/area/St_Muh_13)
+"c" = (/turf/simulated/floor,/area/St_Muh_13)
+"d" = (/obj/structure/stairs/east,/turf/St_Muh_13/floor/digable/grass,/area/St_Muh_13)
+"e" = (/obj/structure/stairs/west,/turf/St_Muh_13/floor/digable/grass,/area/St_Muh_13)
+"f" = (/obj/structure/table/woodentable,/turf/St_Muh_13/floor/digable/grass,/area/St_Muh_13)
+"g" = (/turf/simulated/floor/carpet,/area/St_Muh_13)
+"h" = (/obj/structure/noticeboard,/turf/simulated/wall,/area/St_Muh_13)
+"i" = (/turf/St_Muh_13/floor/tropa,/area/St_Muh_13)
+"j" = (/obj/structure/stairs/north,/turf/St_Muh_13/floor/tropa,/area/St_Muh_13)
+"k" = (/turf/St_Muh_13/floor/gryaz/gryaz2,/area/St_Muh_13)
+"l" = (/turf/St_Muh_13/floor/plasteel/plitka,/area/St_Muh_13)
+"m" = (/turf/St_Muh_13/floor/plasteel/plitochka,/area/St_Muh_13)
+"n" = (/turf/St_Muh_13/floor/plasteel/plita,/area/St_Muh_13)
+"o" = (/turf/St_Muh_13/floor/gryaz/gryaz3,/area/St_Muh_13)
+"p" = (/turf/St_Muh_13/floor/agroprom/beton,/area/St_Muh_13)
+"q" = (/turf/St_Muh_13/floor/agroprom/gryaz,/area/St_Muh_13)
+
+(1,1,1) = {"
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+aaaaaaaaaaaabbbbbbbbbbbbbbbbbbbbbbbaaaaaaaaaaaaaaa
+aaaaaaaaaaaabcccadccbaaaaaaaaaaaaabaaaaaaaaaaaaaaa
+aaaaaaaaaaaabcccadccbaaaaaaaaaaaaabaaaaaaaaaaaaaaa
+aaaaaaaaaaaabcccaaaabaaaaaaaaaaaaabaaaaaaaaaaaaaaa
+aaaaaaaaaaaabccceaccbaaaaaaaaaaaaabaaaaaaaaaaaaaaa
+aaaaaaaaaaaabccceaccbaaaaaaaaaaaaabaaaaaaaaaaaaaaa
+aaaaaaaaaaaabbbbbbccbbbbbaaaaaaaaabaaaaaaaaaaaaaaa
+aaaaaaaaaaaabccccccceaaabbbbbbbbbbbaaaaaaaaaaaaaaa
+aaaaaaaaaaaabccccccceaaabaaabaaaaabaaaaaaaaaaaaaaa
+aaaaaaaaaaaabccccccccbaabaaabaaaaabaaaaaaaaaaaaaaa
+aaaaaaaaaaaabccccccccbaafaaabaaaaabaaaaaaaaaaaaaaa
+aaaaaaaaaaaababaabaaabaafaaaaaaaaabaaaaaaaaaaaaaaa
+aaaaaaaaaaaababaabaaabggfaaahaaaaabaaaaaaaaaaaaaaa
+aaaaaaaaaaaabbbbbbbbbhaahbbbbbbbbbbaaaaaaaaaaaaaaa
+aaaaaaaaaaaaaaaaaaaaaaggaaaaaaaaaaaaaaaaaaaaaaaaaa
+aaaaaaaaaaaaaaaaaaaaaaiiaaaaaaaaaaaaaaaaaaaaaaaaaa
+aaaaaaaaaaaaaaaaaaaaaajjaaaaaaaaaaaaaaaaaaaaaaaaaa
+aaaaaaaaaaaaaaaaaaaaaakkaaaaaaaaaaaaaaaaaaaaaaaaaa
+aaaaaaaaaaaaaaaaaaaaaakkaaaaaaaaaaaaaaaaaaaaaaaaaa
+aaaaaaaaaaaaaaaaaaaaaakkaaaaaaaaaaaaaaaaaaaaaaaaaa
+aaaaaaaaaaaaaaaaaaalmnkkaaaaaaaaaaaaaaaaaaaaaaaaaa
+oooooooooooooooooooooooooooooooooooooooooooooooooo
+oooooooooooooooooooooooooooooooooooooooooooooooooo
+pppppppppppppppppppppppppppppppppppppppppppppppppp
+pppppppppppppppppppppppppppppppppppppppppppppppppp
+pppppppppppppppppppppppppppppppppppppppppppppppppp
+pppppppppppppppppppppppppppppppppppppppppppppppppp
+qqqpqqqpqqqpqqqpqqqpqqqpqqqpqqqpqqqpqqqpqqqpqqqpqq
+pppppppppppppppppppppppppppppppppppppppppppppppppp
+pppppppppppppppppppppppppppppppppppppppppppppppppp
+pppppppppppppppppppppppppppppppppppppppppppppppppp
+pppppppppppppppppppppppppppppppppppppppppppppppppp
+oooooooooooooooooooooooooooooooooooooooooooooooooo
+oooooooooooooooooooooooooooooooooooooooooooooooooo
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+"}
