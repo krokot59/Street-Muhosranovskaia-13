@@ -5,7 +5,8 @@
 	name = "airlock"
 	icon = 'icons/obj/doors/Doorint.dmi'
 	icon_state = "door_closed"
-	power_channel = ENVIRON
+	power_channel = 0
+	autoclose = 0
 
 	explosion_resistance = 10
 	var/aiControlDisabled = 0 //If 1, AI control is disabled until the AI hacks back in and disables the lock. If 2, the AI has bypassed the lock. If -1, the control is enabled but the AI had bypassed it earlier, so if it is disabled again the AI would have no trouble getting back in.
@@ -35,13 +36,13 @@
 	var/secured_wires = 0
 	var/datum/wires/airlock/wires = null
 
-	var/open_sound_powered = 'sound/machines/airlock.ogg'
+	var/open_sound_powered = 'sound/machines/door_open.ogg'
 	var/open_sound_unpowered = 'sound/machines/airlock_creaking.ogg'
-	var/open_failure_access_denied = 'sound/machines/buzz-two.ogg'
+	var/open_failure_access_denied = 'sound/machines/door_locked.ogg'
 
-	var/close_sound_powered = 'sound/machines/AirlockClose.ogg'
+	var/close_sound_powered = 'sound/machines/door_close.ogg'
 	var/close_sound_unpowered = 'sound/machines/airlock_creaking.ogg'
-	var/close_failure_blocked = 'sound/machines/triple_beep.ogg'
+	var/close_failure_blocked = 'sound/machines/door_locked.ogg'
 
 	var/bolts_dropping = 'sound/machines/BoltsDown.ogg'
 	var/bolts_rising = 'sound/machines/BoltsUp.ogg'
